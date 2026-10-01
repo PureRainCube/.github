@@ -1,6 +1,6 @@
 ## Hi there 👋
 This is PureRainCube's code repository. Welcome!  
-这里是清雨立方的代码仓库，欢迎！
+
 <!--
 
 **Here are some ideas to get you started:**
